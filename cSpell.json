@@ -1,0 +1,49 @@
+{
+  "dictionaries": [
+    "companies",
+    "filetypes",
+    "misc",
+    "node",
+    "npm",
+    "softwareTerms",
+    "typescript"
+  ],
+  "flagWords": [],
+  "ignorePaths": [
+    ".eslintrc",
+    "*.config.js",
+    "*.json",
+    "*.log",
+    "*.yaml",
+    "**/*.json",
+    "CHANGELOG.md",
+    "coverage/**",
+    "dist/**",
+    "generated/**",
+    "lib/**",
+    "node_modules/**"
+  ],
+  "language": "en-US",
+  "version": "0.1",
+  "words": [
+    "backoff",
+    "codeowners",
+    "commitlint",
+    "coverallsapp",
+    "dependabot",
+    "docblock",
+    "dottbott",
+    "editorconfig",
+    "gitignore",
+    "mergeable",
+    "octokit",
+    "prettierignore",
+    "prettierrc",
+    "rebased",
+    "releaserc",
+    "retryable",
+    "ridedott",
+    "ridedottmerge",
+    "webhook"
+  ]
+}
